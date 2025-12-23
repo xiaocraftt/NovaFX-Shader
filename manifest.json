@@ -1,0 +1,33 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "NovaFX Shader – Vibrant Visuals Deferred Shader Pack for Minecraft Bedrock By XiaoCraft.",
+    "name": "§bNovaFX Shader",
+    "uuid": "48fef4fd-f3f9-47b5-a413-6ac2a8123161",
+    "version": [2, 4, 2],
+    "min_engine_version": [1, 21, 90]
+  },
+  "modules": [
+    {
+      "description": "§dNovaFX Shader Core Module§r – §9Enhanced for MCPE 1.21+§r",
+      "type": "resources",
+      "uuid": "820ec0a2-af68-4974-8084-210b1be6691f",
+      "version": [2, 4, 2]
+    }
+  ],
+  "capabilities": [
+    "pbr"
+  ],
+  "subpacks": [
+    {
+      "folder_name": "1",
+      "name": "Better FPS",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "2",
+      "name": "Better Quality",
+      "memory_tier": 2
+    }
+  ]
+}
